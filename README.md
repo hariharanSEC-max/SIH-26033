@@ -109,9 +109,61 @@ Future Scope:
 In the future, the platform can be extended with mobile application support, digital payment integration, transport service connections, and advanced crop demand prediction.
 
 ## Impact and Benefits
+AgriConnect can improve the way agricultural products are marketed and distributed by making information available directly to farmers and buyers.
 
+Farmer Development:
 
+Helps small farmers reach more potential buyers.
+
+Provides an additional online selling opportunity.
+
+Reduces dependence on traditional marketing channels.
+
+Helps farmers understand product demand and market prices.
+
+Supports better management of agricultural sales.
+Consumer Advantages:
+
+Makes agricultural products easier to find.
+
+Provides product and price information before purchasing.
+
+Creates opportunities to purchase directly from producers.
+
+Helps reduce additional costs in the supply chain.
+Agricultural Development:
+
+Encourages the use of digital platforms in farming.
+
+Supports technology adoption among rural communities.
+
+Improves communication between producers and buyers.
+
+Promotes organized agricultural product marketing.
+Long-Term Benefits:
+
+The platform can help develop a more connected agricultural trading network. It can also support FPOs, local retailers, and wholesale purchasers by providing a common digital marketplace
 ## Research and References
-Remove These Lines
-1. Details / Links of the reference and research work
+The project idea is developed by studying agricultural marketing methods, online trading platforms, and the use of technology in supply chain management.
+
+Useful References:
+
+e-NAM – https://enam.gov.in/
+
+Ministry of Agriculture – https://agriwelfare.gov.in/
+
+Ministry of Consumer Affairs – https://consumeraffairs.nic.in/
+
+Digital India – https://www.digitalindia.gov.in/
+
+Python – https://www.python.org/
+
+Django – https://www.djangoproject.com/
+
+Scikit-learn – https://scikit-learn.org/
+
+MySQL – https://www.mysql.com/
+Conclusion:
+
+AgriConnect provides a technology-based approach to improve agricultural product marketing. It creates a direct connection between farmers and buyers while making product information and sales management easier. Through digital trading and AI-based demand analysis, the platform aims to reduce unnecessary intermediaries, support farmers' earnings, and make agricultural products more accessible to consumers.
 
