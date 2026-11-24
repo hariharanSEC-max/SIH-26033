@@ -86,16 +86,32 @@ Testing and Deployment
 The application will be tested to check user registration, product uploads, database operations, and order processing before deployment.
 
 ## Feasibility and Viability
-Remove These Lines
-1. Analysis of the feasibility of the idea
-2. Potential challenges and risks
-3. Strategies for overcoming these challenges
+Feasibility and Viability
+AgriConnect can be developed using commonly available technologies without requiring expensive hardware or specialized infrastructure.
+
+Implementation Feasibility:
+
+Python Django provides the necessary tools for building the application, while MySQL can manage the required agricultural and customer information. Machine learning libraries can be integrated for basic demand analysis.
+
+Challenges and Solutions:
+
+Low Digital Awareness: Some farmers may find online platforms difficult to use. A simple interface and regional language options can make the application easier to understand.
+
+Changing Product Prices: Agricultural prices may vary depending on season and availability. Providing updated market information can help users make informed decisions.
+
+Data Availability: AI predictions may be limited when sufficient sales records are unavailable. The system can initially use sample datasets and improve as actual transaction data increases.
+
+Product Quality: Buyers may be concerned about the quality of products. Farmers can upload product images and relevant quality details before listing them.
+
+Application Accessibility: Rural users may experience slow internet connectivity. A lightweight and mobile-friendly website can improve accessibility.
+Future Scope:
+
+In the future, the platform can be extended with mobile application support, digital payment integration, transport service connections, and advanced crop demand prediction.
 
 ## Impact and Benefits
-Remove These Lines
-1. Potential impact on the target audience
-2. Benefits of the solution (social, economic, environmental, etc.)
+
 
 ## Research and References
 Remove These Lines
 1. Details / Links of the reference and research work
+
