@@ -47,9 +47,43 @@ Order Management: Maintains product orders and helps farmers manage their sales.
 AI Demand Estimation: Analyzes previous sales information to estimate the demand for agricultural products.
 
 ## Technical Approach
-Remove These Lines
-1. Technologies to be used (e.g. programming languages, frameworks, hardware)
-2. Methodology and process for implementation <b>(Flow Charts/Images/ working prototype)</b>
+AgriConnect will be developed using web technologies to provide an easy-to-access platform for farmers and buyers.
+
+Software Requirements:
+
+Frontend: HTML, CSS, JavaScript
+
+Backend: Python Django
+
+Database: MySQL
+
+Machine Learning: Python and Scikit-learn
+
+Data Processing: Pandas and NumPy
+
+Development Environment: Visual Studio Code
+
+Version Control: GitHub
+
+Development Methodology:
+
+User Interface Development
+A simple and responsive website will be designed for farmers and customers. The interface will contain separate sections for registration, login, product details, and order management.
+
+Database Creation
+A database will be created to store user information, agricultural product details, prices, quantities, and purchase records.
+
+Product Management
+Farmers can add new products, edit existing information, and update the available quantity whenever necessary.
+
+Buyer Interaction
+Buyers can search for products, check their details, and send purchase requests through the platform.
+
+AI Integration
+A machine learning model can analyze historical sales records and identify demand patterns. Based on the available data, it can provide estimated demand information for different crops.
+
+Testing and Deployment
+The application will be tested to check user registration, product uploads, database operations, and order processing before deployment.
 
 ## Feasibility and Viability
 Remove These Lines
