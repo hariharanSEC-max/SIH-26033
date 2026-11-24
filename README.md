@@ -26,10 +26,25 @@ Benefits:
 • Reduced supply chain inefficiencies.
 
 ## Proposed Solution
-Remove These Lines
-1. Detailed explanation of the proposed solution
-2. How it addresses the problem
-3. Innovation and uniqueness of the solution
+AgriConnect is an online agricultural trading platform developed to make the selling and purchasing of farm products easier. It provides a common space where farmers can display their products and buyers can purchase them directly.
+
+In the traditional marketing system, agricultural products pass through several trading stages before reaching consumers. This increases product prices and reduces the amount received by farmers. AgriConnect aims to simplify this process by providing direct communication between producers and buyers.
+
+The platform allows farmers to upload crop information, including product images, available stock, location, and expected selling price. Buyers can view the listed products and select the products according to their requirements.
+
+The system also provides useful market information to help farmers make better selling decisions.
+
+Important Features:
+
+Farmer Product Listing: Farmers can publish their available crops with price, quantity, and quality details.
+
+Buyer Dashboard: Customers and wholesale buyers can explore agricultural products in one place.
+
+Market Price Information: Displays available price information to help farmers understand market conditions.
+
+Order Management: Maintains product orders and helps farmers manage their sales.
+
+AI Demand Estimation: Analyzes previous sales information to estimate the demand for agricultural products.
 
 ## Technical Approach
 Remove These Lines
